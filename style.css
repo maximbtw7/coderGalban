@@ -1,0 +1,42 @@
+header{
+    background-color: rgb(168, 114, 48);
+}
+header a{
+    color: black;
+    text-decoration: none;
+}
+
+main{
+    color: rgb(212, 212, 212);
+    background-image: url(./img/roadBackground.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.logo{
+    
+}
+
+.mainImg{
+    width: 20rem;
+}
+
+footer{
+    background-color: rgb(190, 145, 85);
+}
+h1{
+    font-size: 4rem;
+}
+
+/* nosotros */
+.bodyNosotros{
+    height: 80%;
+}
+
+/* productos  */
+
+/* contacto */
+
+.mainContacto{
+    text-align: center;
+}
